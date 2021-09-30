@@ -11,10 +11,3 @@ hipotenusa=math.sqrt(pow(cateto1,2)+pow(cateto2,2))
 print("La hipotenusa es",hipotenusa)
 
 
-
-
-
-
-
-
-#La hipotenusa de un triángulo rectángulo es igual a la raiz cuadrada de la suma del cuadrado de los catet 
