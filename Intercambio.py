@@ -1,7 +1,8 @@
-print("Intercambio de valor de variables")
 
-a=float(input("Introduce la variable A"))
-b=float(input("Introduce la variable B"))
+print("INTERCAMBIO DEL VALOR DE LAS VARIABLES")
+
+a=float(input("Introduce la variable A:"))
+b=float(input("Introduce la variable B:"))
 
 a,b=b,a
 
